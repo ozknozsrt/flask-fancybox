@@ -1,0 +1,5 @@
+* {margin: 0; padding: 0; box-sizing: border-box; list-style: none;}
+body {font-family: Arial; font-size: 14px;}
+ul {display: table; width: 80%; margin: 20px auto;}
+li {float: left; width: 24%; margin: 0.5%;}
+li img {max-width: 100%; height: 170px; display: block; border: 2px solid #000; }
