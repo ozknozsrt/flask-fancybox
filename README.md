@@ -2,9 +2,9 @@
 
 ## Using
 for windows:
->>set FLASK_APP=app.py
+> >set FLASK_APP=app.py
 
 for linux or mac:
 >>export FLASK_APP=app.py
 
->>flask run
+> >flask run
